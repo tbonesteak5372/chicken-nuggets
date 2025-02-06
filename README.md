@@ -1,2 +1,0 @@
-# chicken-nuggets
-chicken nuggets
